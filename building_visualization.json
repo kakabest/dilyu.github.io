@@ -3,7 +3,7 @@
     "data": {
       "url": "https://raw.githubusercontent.com/kakabest/dilyu.github.io/main/data/building_inventory.json"
     },
-    "mark": "line",
+    "mark": "bar",
     "params": [{"name": "myfirstparam", "select": "interval"}],
     "transform": [
       {
