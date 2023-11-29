@@ -1,4 +1,3 @@
-pip install streamlit-extras
 import streamlit as st
 from streamlit_extras.mandatory_date_range import date_range_picker 
 
