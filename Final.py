@@ -1,3 +1,4 @@
+from streamlit_extras.mandatory_date_range import date_range_picker 
 def example():
     st.write(
         """
