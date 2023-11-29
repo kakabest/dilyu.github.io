@@ -8,3 +8,6 @@ def example():
 
 example()
 
+jupyterlite(1500, 1600)
+
+
